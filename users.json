@@ -1,0 +1,47 @@
+[
+  {
+    "id": "U100",
+    "name": "alice",
+    "real_name": "Alice Rivera",
+    "email": "alice@example.com",
+    "is_admin": true,
+    "is_bot": false,
+    "title": "Engineering Manager"
+  },
+  {
+    "id": "U101",
+    "name": "bob",
+    "real_name": "Bob Lee",
+    "email": "bob@example.com",
+    "is_admin": false,
+    "is_bot": false,
+    "title": "Backend Engineer"
+  },
+  {
+    "id": "U102",
+    "name": "cara",
+    "real_name": "Cara Shaw",
+    "email": "cara@example.com",
+    "is_admin": false,
+    "is_bot": false,
+    "title": "Frontend Engineer"
+  },
+  {
+    "id": "U103",
+    "name": "dave",
+    "real_name": "Dave Yang",
+    "email": "dave@example.com",
+    "is_admin": false,
+    "is_bot": true,
+    "title": "Build Bot"
+  },
+  {
+    "id": "U104",
+    "name": "emi",
+    "real_name": "Emi Kato",
+    "email": "emi@example.com",
+    "is_admin": false,
+    "is_bot": false,
+    "title": "Designer"
+  }
+]
